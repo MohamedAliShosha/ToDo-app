@@ -7,5 +7,6 @@
 - 📱 **Cross-platform support**: Works on Android and iOS.
 
 ###Technologies
+
 Flutter: The app is developed using Flutter, a powerful framework for building cross-platform applications
 
